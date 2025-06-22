@@ -1,1 +1,4 @@
-# RP2040_Micropython
+# RP2040 pico-sdk
+
+Source code files for the RP2040 microcontroller using the official Pico SDK structure. 
+Includes examples and projects demonstrating GPIO control, timers, PWM, ADC, and other hardware features.
